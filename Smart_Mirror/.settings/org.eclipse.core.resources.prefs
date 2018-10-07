@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXML.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLBindingStub.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLLocator.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/NdfdXMLPortType.java=UTF-8
+encoding//src/gov/weather/graphical/xml/DWMLgen/wsdl/ndfdXML_wsdl/WeatherParametersType.java=UTF-8
